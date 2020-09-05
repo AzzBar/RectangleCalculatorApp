@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RectangleCalculatorApp_JC</string>
+    <string name="widthLabel">Width</string>
+    <string name="widthEdit">Enter a Width</string>
+    <string name="heightEdit">Enter a Height</string>
+    <string name="heightLabel">Height</string>
+    <string name="areaLabel">Area</string>
+    <string name="areaResult" />
+    <string name="perimeterLabel">Perimeter</string>
+    <string name="perimeterResult" />
+
+</resources>

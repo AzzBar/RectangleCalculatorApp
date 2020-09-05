@@ -1,0 +1,2 @@
+rootProject.name='RectangleCalculatorApp'
+include ':app'
